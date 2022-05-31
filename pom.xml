@@ -26,3 +26,8 @@
 </project>
 
 //3rd commit//
+
+<build>
+    <finalName>Jiban</finalName>
+  </build>
+</project>
