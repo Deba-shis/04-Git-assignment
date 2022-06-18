@@ -7,7 +7,7 @@ pipeline{
         stage('Getcode'){
             steps{
                 git branch:'master',
-                url:'https://github.com/Deba-shis/05-Jenkins.git'
+                url:'https://github.com/Deba-shis/04-Git-assignment.git'
             }
         }
         stage('build'){
